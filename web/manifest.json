@@ -1,0 +1,10 @@
+{
+  "name": "Kampüs · Profil",
+  "short_name": "Kampüs",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F7F5",
+  "theme_color": "#16705B",
+  "description": "Flutter profil ve mesaj arayüzü demosu",
+  "lang": "tr"
+}
